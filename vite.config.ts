@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/EPOTE/', // <--- ДОБАВЛЕНА ЭТА СТРОКА
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
