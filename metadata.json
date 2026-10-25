@@ -1,0 +1,6 @@
+{
+  "name": "QTE Auto-Clicker & Reaction Bot",
+  "description": "Интерактивный симулятор QTE с авто-нажатием ЛКМ, захватом экрана для анализа реакции и генератором готовых AutoHotkey/Python скриптов.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
